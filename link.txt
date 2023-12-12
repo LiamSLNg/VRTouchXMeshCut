@@ -1,0 +1,7 @@
+This file has the link to download the zip file that contains the entire Unity program.
+
+This works for Unity version 2022.3.12f1.
+
+Make sure to configure the 3D Systems Touch X before opening the Unity program.
+Make sure to setup the Quest 2 before building the VR version of the demonstration.
+
